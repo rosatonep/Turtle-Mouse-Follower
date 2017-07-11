@@ -1,4 +1,4 @@
-/* Author: Philip Rosatone, U85355157 */
+/* Author: Philip Rosatone */
 
 package cop2513.turtlemousefollow;
 
